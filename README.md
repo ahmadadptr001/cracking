@@ -1,7 +1,7 @@
 enter this command on terminal
 this is support on termux
 
-#command
+# command
 
 $ apt update && apt upgrade -y
 <br>
